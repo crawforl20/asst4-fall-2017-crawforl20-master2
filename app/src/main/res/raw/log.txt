@@ -1,0 +1,20 @@
+November 3, 2017
+
+The following are resources used throughout the course of this project.
+
+1.) https://developer.android.com/reference/android/graphics/PointF.html
+//More indepth into PointF and Point
+
+2.) https://developer.android.com/reference/android/view/animation/RotateAnimation.html
+//RotateAnimation source website, to help further understand an unknown topic.
+
+3.) https://developer.android.com/training/graphics/opengl/touch.html
+//for more understanding along with in class notes on the workings of touch and GestureDetector.
+
+4.) https://uportland.mediaspace.kaltura.com/media/Gravity+Tutorial+%28CS+301%29/0_lhh6suyn
+//video sent from Professor Vegdahl relating the physics behind gravity in this spaceBalls project,
+more conceptually.
+
+5.) https://stackoverflow.com/questions/20228639/arraylist-random-coordinates
+//How ArrayList and PointF or Point, can work to allow the ArrayList of multiple little twinkling
+stars for the enhancement and the original.
